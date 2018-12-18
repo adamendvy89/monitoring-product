@@ -25,7 +25,7 @@ Mongodb with ODM mongoose <br>
 ReactJs
 
 ### Server Requirements
-PHP >= 7.1.3
+PHP 5.5+ and Guzzle 6+
 OpenSSL PHP Extension
 PDO PHP Extension
 Mbstring PHP Extension

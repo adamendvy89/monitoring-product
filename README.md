@@ -57,4 +57,4 @@ Link : https://
 
 ## Author
 
-* **Glady Sefirina** - ()
+* **Adam Endvy** - ()
